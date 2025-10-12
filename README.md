@@ -2,18 +2,6 @@
 
 A machine learning project that predicts the number of orders for retail stores using LightGBM regression. This project analyzes various factors like store type, location, holidays, and discounts to forecast order volumes.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Performance](#model-performance)
-- [Visualizations](#visualizations)
-- [Requirements](#requirements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🔍 Overview
 
@@ -149,29 +137,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Prajwal Nandaragi**
-- GitHub: [@PrajwalNandaragi](https://github.com/PrajwalNandaragi)
-
-## 🙏 Acknowledgments
-
-- Thanks to the LightGBM team for the excellent gradient boosting framework
-- Plotly for interactive visualization capabilities
-- The open-source community for continuous support
-
-## 📞 Contact
-
-If you have any questions or suggestions, please feel free to reach out:
-
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Project Link**: [https://github.com/PrajwalNandaragi/Number-of-orders-Prediction-](https://github.com/PrajwalNandaragi/Number-of-orders-Prediction-)
-
----
 
 ⭐ **Star this repository if you found it helpful!**
